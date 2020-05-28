@@ -1,7 +1,7 @@
 {
   "name": "react-native-force-orientation",
   "title": "React Native Force Orientation",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Force Orientation",
   "main": "index.js",
   "files": [
