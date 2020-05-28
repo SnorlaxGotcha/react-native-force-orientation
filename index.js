@@ -1,5 +1,5 @@
 import { NativeModules } from 'react-native';
 
-const { ReactNativeForceOrientation } = NativeModules;
+const { ForceOrientation } = NativeModules;
 
-export default ReactNativeForceOrientation;
+export default ForceOrientation;

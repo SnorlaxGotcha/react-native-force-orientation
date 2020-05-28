@@ -5,18 +5,18 @@ import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.Callback;
 
-public class ReactNativeForceOrientationModule extends ReactContextBaseJavaModule {
+public class ForceOrientationModule extends ReactContextBaseJavaModule {
 
     private final ReactApplicationContext reactContext;
 
-    public ReactNativeForceOrientationModule(ReactApplicationContext reactContext) {
+    public ForceOrientationModule(ReactApplicationContext reactContext) {
         super(reactContext);
         this.reactContext = reactContext;
     }
 
     @Override
     public String getName() {
-        return "ReactNativeForceOrientation";
+        return "ForceOrientation";
     }
 
     @ReactMethod

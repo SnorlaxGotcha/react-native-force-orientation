@@ -10,10 +10,10 @@ import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.uimanager.ViewManager;
 import com.facebook.react.bridge.JavaScriptModule;
 
-public class ReactNativeForceOrientationPackage implements ReactPackage {
+public class ForceOrientationPackage implements ReactPackage {
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
-        return Arrays.<NativeModule>asList(new ReactNativeForceOrientationModule(reactContext));
+        return Arrays.<NativeModule>asList(new ForceOrientationModule(reactContext));
     }
 
     @Override

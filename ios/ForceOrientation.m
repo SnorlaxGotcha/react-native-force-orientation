@@ -1,6 +1,6 @@
-#import "ReactNativeForceOrientation.h"
+#import "ForceOrientation.h"
 
-@implementation ReactNativeForceOrientation
+@implementation ForceOrientation
 
 RCT_EXPORT_MODULE()
 

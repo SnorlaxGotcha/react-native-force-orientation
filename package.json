@@ -1,31 +1,26 @@
 {
-  "name": "react-native-react-native-force-orientation",
-  "title": "Force Orientation",
-  "version": "1.0.5",
-  "description": "Force Orientation For React Native",
+  "name": "react-native-force-orientation",
+  "title": "React Native Force Orientation",
+  "version": "1.0.7",
+  "description": "Force Orientation",
   "main": "index.js",
   "files": [
     "README.md",
     "android",
     "index.js",
     "ios",
-    "react-native-react-native-force-orientation.podspec"
+    "react-native-force-orientation.podspec"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-react-native-force-orientation.git",
-    "baseUrl": "https://github.com/github_account/react-native-react-native-force-orientation"
+    "url": "git+https://github.com/SnorlaxGotcha/react-native-force-orientation.git",
+    "baseUrl": "https://github.com/SnorlaxGotcha/react-native-force-orientation"
   },
   "keywords": [
-    "react-native",
-    "React Native",
-    "JavaScript",
-    "Android",
-    "iOS",
-    "orientation"
+    "Orientation"
   ],
   "author": {
     "name": "SnorlaxGotcha",
