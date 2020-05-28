@@ -9,8 +9,8 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "SnorlaxGotcha",
+  "license": "MIT",
   "devDependencies": {
     "react-native": "0.41.2"
   },

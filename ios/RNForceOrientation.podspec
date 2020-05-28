@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNForceOrientation
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/SnorlaxGotcha/react-native-force-orientation"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "gn01143784@gmail.com" }
