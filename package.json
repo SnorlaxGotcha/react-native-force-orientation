@@ -1,20 +1,27 @@
 {
   "name": "react-native-force-orientation",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.4",
+  "description": "Orientation for React Native",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "files": [
+    "android/",
+    "ios/",
+    "RNForceOrientation.podspec"
+  ],
   "keywords": [
-    "react-native"
+    "react-native",
+    "React Native",
+    "JavaScript",
+    "Android",
+    "iOS",
+    "orientation"
   ],
   "author": "SnorlaxGotcha",
   "license": "MIT",
   "devDependencies": {
-    "react-native": "0.41.2"
+    "react-native": ">=0.56"
   },
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": ">=0.56"
   }
 }
