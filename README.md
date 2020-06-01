@@ -1,17 +1,27 @@
 # react-native-force-orientation
 
-## Getting started
+Orientation for react-native
 
-`$ npm install react-native-force-orientation --save`
+## Installation
 
-### Mostly automatic installation
-
-`$ react-native link react-native-force-orientation`
+```sh
+npm install react-native-force-orientation
+```
 
 ## Usage
-```javascript
-import ForceOrientation from 'react-native-force-orientation';
 
-// TODO: What to do with the module?
-ForceOrientation;
+```js
+import ForceOrientation from "react-native-force-orientation";
+
+// ...
+
+const result = await ForceOrientation.multiply(3, 7);
 ```
+
+## Contributing
+
+See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
+
+## License
+
+MIT
