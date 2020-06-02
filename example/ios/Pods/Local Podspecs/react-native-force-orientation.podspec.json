@@ -1,0 +1,21 @@
+{
+  "name": "react-native-force-orientation",
+  "version": "1.0.11",
+  "summary": "Orientation for react native",
+  "homepage": "https://github.com/SnorlaxGotcha/react-native-force-orientation#readme",
+  "license": "MIT",
+  "authors": "SnorlaxGotcha <gn01143784@gmail.com> (https://github.com/SnorlaxGotcha/react-native-force-orientation)",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/SnorlaxGotcha/react-native-force-orientation.git",
+    "tag": "1.0.11"
+  },
+  "source_files": "ios/**/*.{h,m,mm}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

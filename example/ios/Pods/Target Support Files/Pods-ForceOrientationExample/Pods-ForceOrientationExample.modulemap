@@ -1,0 +1,6 @@
+module Pods_ForceOrientationExample {
+  umbrella header "Pods-ForceOrientationExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

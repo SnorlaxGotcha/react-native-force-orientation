@@ -2,11 +2,13 @@ import * as React from 'react';
 import { StyleSheet, View, Text } from 'react-native';
 import ForceOrientation from 'react-native-force-orientation';
 
+console.log(ForceOrientation, '78777');
+
 export default function App() {
   const [result, setResult] = React.useState<number | undefined>();
 
   React.useEffect(() => {
-    ForceOrientation.multiply(3, 7).then(setResult);
+    ForceOrientation.multiply(0).then(setResult);
   }, []);
 
   return (
