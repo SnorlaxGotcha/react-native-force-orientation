@@ -1,7 +1,7 @@
 {
   "name": "react-native-force-orientation",
-  "version": "1.0.10",
-  "description": "Orientation for react-native",
+  "version": "1.0.11",
+  "description": "Orientation for react native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/src/index.d.ts",
@@ -32,13 +32,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/SnorlaxGotcha/react-native-force-orientation/",
-  "author": "SnorlaxGotcha <gn01143784@gmail.com> (https://github.com/SnorlaxGotcha/react-native-force-orientation/)",
+  "repository": "https://github.com/SnorlaxGotcha/react-native-force-orientation",
+  "author": "SnorlaxGotcha <gn01143784@gmail.com> (https://github.com/SnorlaxGotcha/react-native-force-orientation)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SnorlaxGotcha/react-native-force-orientation//issues"
+    "url": "https://github.com/SnorlaxGotcha/react-native-force-orientation/issues"
   },
-  "homepage": "https://github.com/SnorlaxGotcha/react-native-force-orientation/#readme",
+  "homepage": "https://github.com/SnorlaxGotcha/react-native-force-orientation#readme",
   "devDependencies": {
     "@commitlint/config-conventional": "^8.3.4",
     "@react-native-community/bob": "^0.14.5",

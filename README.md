@@ -1,6 +1,6 @@
 # react-native-force-orientation
 
-Orientation for react-native
+Orientation for react native
 
 ## Installation
 

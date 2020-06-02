@@ -1,12 +1,9 @@
 import { NativeModules } from 'react-native';
 
 type ForceOrientationType = {
-  forcePortrait(): void;
-  forceLandscapeLeft(): void;
+  multiply(a: number, b: number): Promise<number>;
 };
 
 const { ForceOrientation } = NativeModules;
 
 export default ForceOrientation as ForceOrientationType;
-
-// export const { ForceOrientation } = NativeModules;
